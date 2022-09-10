@@ -1,0 +1,23 @@
+{
+    "name": "ramprasadm1986/yii2-helloworld",
+    "description": "Yii2 Hello World Plugin",
+    "type": "yii2-extension",
+    "version": "1.0.0",
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ramprasadm1986\\Yii2Helloworld\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ramprasad  Moharana",
+            "email": "ramprasad@krititech.in"
+        }
+    ],
+    "minimum-stability": "dev"
+}
